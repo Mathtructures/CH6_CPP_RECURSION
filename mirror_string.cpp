@@ -1,7 +1,6 @@
 #include <iostream>
-
+//محمدامین اسدی
 using namespace std;
-
 bool is_mirror(string str)
 {
     int length = str.length();
@@ -23,7 +22,6 @@ bool is_mirror(string str)
     }
     return true;
 }
-
 main()
 {
     string str;
