@@ -1,0 +1,7 @@
+.vscode
+*.exe
+test.cpp
+raylib_fractal.cpp
+raylib-quickstart-main.zip
+raylib-quickstart-main
+raylib-5.5_win64_mingw-w64
